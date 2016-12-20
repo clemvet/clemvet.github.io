@@ -25,7 +25,7 @@ description: Modèles de comptes-rendus, courriers, fiches d hospitalisation... 
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Test: "https://clemvet.github.io/test.md"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
   Author's home: "http://deanattali.com"
